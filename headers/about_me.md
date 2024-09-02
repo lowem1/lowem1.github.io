@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-Hi, I'm Mike! I'm an Applied Machine Learning and AI Scientist, here in New York City. Having worked at the staff level, as both a data engineer and data scientist, I have a passion for building 0-1 intelligenent systems that help people. 
+ Hi, I'm Mike! I'm an Applied Machine Learning and AI Scientist, here in New York City. Having worked at the staff level, as both a data engineer and data scientist, I have a passion for building 0-1 intelligenent systems that help people. 
 
 # Professional Background
 As a data scientist at CVS Health, I lead a generative AI research and development lab that drives innovation for products within the Consumer Analytics organization.
