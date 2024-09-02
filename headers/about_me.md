@@ -9,7 +9,7 @@ Hi, I'm Mike! I'm an Applied Machine Learning and AI Scientist, here in New York
 As a data scientist at CVS Health, I lead a generative AI research and development lab that drives innovation for products within the Consumer Analytics organization.
 
 # Education
-Aside from my profressional life, I am currently Ph.D. Candidate at Florida Atlnatic University, under Dr.'s Taghi Khoshgoftaar and Joseph Prusa. My research focuses on applying systemic phenomena, across various modalities, to de-noising training methods for Large Language Models.
+Aside from my profressional life, I am currently Ph.D. Candidate at Florida Atlantic University, under Dr.'s Taghi Khoshgoftaar and Joseph Prusa. My research focuses on applying systemic phenomena, across various modalities, to de-noising training methods for Large Language Models.
 
 - **Ph.D. Computer Science**, Machine Learning, Florida Atlantic University 
 - **M.S. Computer Science**, Machine Learning,  Florida Atlantic University
