@@ -34,7 +34,7 @@ plugins:
 
 
 header_pages:
-  - headers/about_me.md
+  # - headers/about_me.md
   - headers/resume.md
   - headers/publications.md
 # Exclude from processing.

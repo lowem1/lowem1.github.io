@@ -15,15 +15,23 @@ img {
 }
 </style>
 
-<!-- #### Applied Machine Learning Scientist. Welcome to my notebook! We try stuff, fail, try again, and write about it.
---- -->
 
- Hi, I'm Mike! I'm an Applied Machine Learning and AI Scientist, here in New York City. Having worked at the staff level, as both a data engineer and data scientist, I have a passion for building 0-1 intelligenent systems that help people. This is my notebook, where I try things, fail, and try again, then write about it.
 
-## Professional Background
-As a data scientist at CVS Health, I lead a generative AI research and development lab that drives innovation for products within the Consumer Analytics organization.
+
+# Welcome!
+
+ Hi, I'm Mike! I'm an Applied Machine Learning and AI Scientist, here in New York City. This is my notebook, where I try things, fail, and try again, then write about it.
+
+---
+
+## Background
+I lead a generative AI research and development lab that drives innovation for products within the Consumer Analytics organization, at CVS Health. Having worked at the staff level, as both a data engineer and data scientist, I developed a passion for building 0-1 intelligenent systems that help people. 
+
+Aside from work, I love being outdoors, lifting weights, and playing music. Jazz piano and marching percussion have been a huge part of my life for over 20 years.
 
 ## Education
+Aside from my profressional and personal life, I am currently Ph.D. Candidate at Florida Atlantic University, under Dr.’s Taghi Khoshgoftaar and Joseph Prusa. My research focuses on applying systemic phenomena, across various modalities, to de-noising training methods for Large Language Models.
+
 - **Ph.D. Computer Science**, Candidate, Machine Learning, Florida Atlantic University 
 - **M.S. Computer Science**, Machine Learning,  Florida Atlantic University
 - **B.S. Electrical and Computer Engineering**, University Florida 
@@ -33,4 +41,4 @@ As a data scientist at CVS Health, I lead a generative AI research and developme
 - Transductive Denoising for Semi and Unsupervised Learning
 - Regularization Methods for Sparse Retrieval
 
-
+---

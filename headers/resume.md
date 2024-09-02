@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-<span style="font-size:small"> Applied Machine Learning Research Engineer with nearly a decade of experience building large-scale data processing systems in various sectors of the United State Healthcare system.
+<span style="font-size:medium"> Applied Machine Learning Research Engineer with nearly a decade of experience building large-scale data processing systems in various sectors of the United State Healthcare system.
 
 # Experience
 #### <span style="color:maroon">**CVS Health**</span> |  New York, NY | Mar 2022-Current
@@ -44,10 +44,3 @@ permalink: /resume/
 
 
 ##### **B.S. Electrical and Computer Engineering** \| University Florida, Gainesviile, FL
-
-
-# Publications
-
-# US Patents
-
-# Teaching Experience
