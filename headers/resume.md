@@ -4,10 +4,15 @@ title: Resume
 permalink: /resume/
 ---
 
-<span style="font-size:medium"> Applied Machine Learning Research Engineer with nearly a decade of experience building large-scale data processing systems in various sectors of the United State Healthcare system.
+<span style="font-size:medium"> Applied Machine Learning Research Engineer with nearly a decade of experience building large-scale data processing systems in various sectors of the United State Healthcare system. I currently build content generation, measurement, and search systems powered by generative AI. My current research domain is focused around Weak and In-Context Domain Adaptation and Subjective Content Evaluation.
 
 # Experience
 #### <span style="color:maroon">**CVS Health**</span> |  New York, NY | Mar 2022-Current
+
+##### **Principal, Data Science**, Machine Learning Scientist
+- <span style="font-size:small"> Created and lead a post-training and evaluation platform team responsible maintaining the accuracy of a generative AI platform across 5 teams.
+- <span style="font-size:small"> Core responsibilities include curating benchmark datasets, creating domain-subjective LLM-as-ajudge framworks, and modularized RAG experimentation to measure application development at scale.
+- <span style="font-size:small"> Created an evaluation platform responsible for decreasing manual intervention of subject matter experts by a factor of 20x, increased platform coverage from monthly over a single environment to weekly over multiple environments.
 
 ##### **Member of Technical Staff**, Machine Learning Scientist
 - <span style="font-size:small">Led Data Science research and productionalizing for the Iris Product, a Generative AI-powered knowledge management platform. Iris delivers clear, concise summaries from over 30 proprietary sources within seconds, instantly connecting customer service representatives to data across multiple Aetna business units.
